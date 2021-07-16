@@ -1,0 +1,10 @@
+y-1
+n-0
+yes-1
+no-0
+graduate-1
+not graduate-0
+male-1
+female-0
+urban-1
+rural-0
